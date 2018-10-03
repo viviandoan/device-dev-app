@@ -3,9 +3,11 @@
 
 This is a paragraph etc, etc
 
-*Bold*
+**Bold**
 
 _Italics_
+
+*Also Italics*
 
 ~Strikethrough~
 
