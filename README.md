@@ -12,6 +12,7 @@ _Italics_
 ~Strikethrough~
 
 Horizontal rule
+
 ---
 
 - Bulleted list
@@ -24,3 +25,9 @@ Horizontal rule
 2. Another item
 
 You can also talk about `inline code` like this
+
+README also takes into account spaces
+
+
+
+like this
